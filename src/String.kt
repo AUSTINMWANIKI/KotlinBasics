@@ -10,11 +10,12 @@ fun main() {
     //String concatenation
     println(firstname+lastname)
     println(firstname +" "+ lastname)
+   
     //Modifying a string
     println(text.uppercase())
     println(firstname.lowercase())
 
     //String interpolation
     println("My fullname is $firstname $lastname")
-
+    println("His fullname is $lastname $firstname")
 }
