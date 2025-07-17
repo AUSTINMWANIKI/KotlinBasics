@@ -5,7 +5,7 @@ fun main() {
     println("Enter marks :")
     var marks = read.nextInt()
 
-    var grade = when{
+    var grade = when {
         marks >= 90 -> "A+"
         marks >= 80 -> "A"
         marks >= 70 -> "A-"
