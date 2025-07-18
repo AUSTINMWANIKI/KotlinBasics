@@ -12,7 +12,7 @@ fun main() {
     println(firstname +" "+ lastname)
    
     //Modifying a string
-    println(text.uppercase())
+    println(lastname.uppercase())
     println(firstname.lowercase())
 
     //String interpolation

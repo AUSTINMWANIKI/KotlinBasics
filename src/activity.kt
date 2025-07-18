@@ -1,9 +1,8 @@
 import java.time.Year
 import java.util.Scanner
 
-//1.Kotlin program to check leap year
+//1.Kotlin program that checks leap year
 fun main() {
-
     val read = Scanner(System.`in`)
 
     print("Enter a year:")
